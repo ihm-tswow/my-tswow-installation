@@ -1,3 +1,0 @@
-[submodule "modules/submodule-test"]
-	path = modules/submodule-test
-	url = https://github.com/ihm-ts/submodule-test.git
